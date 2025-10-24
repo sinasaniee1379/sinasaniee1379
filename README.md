@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am front end and mobile developer (React, Next, Typescript and React Native)<br>I have 4 years experience in this major and have worked with many modules <br>Like tailwind , axios , formik , shadcn and 
+.?# 💫 About Me:
+I am front end and mobile developer (React, Next, Typescript and React Native)<br>I have 4 years experience in this major and have worked with many modules <br>Like tailwind , axios , formik ,shadcn etc. 
 
 
 ## 🌐 Socials:
@@ -17,6 +17,6 @@ I am front end and mobile developer (React, Next, Typescript and React Native)<b
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sinasaniee1379&icon=0&color=0)](https://visitcount.itsvg.in)
-I am passionate about learning
+I am passionate about learning😎📱
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
