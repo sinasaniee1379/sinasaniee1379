@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinasaniee1379&label=Profile%20views&color=0e75b6&style=flat" alt="sinasaniee1379" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinasaniee1379" alt="sinasaniee1379" /></a> </p>
+
 - 🔭 I’m currently working on [Zeevaweb](https://zeevaweb.liara.run/fa)
 
 - 🌱 I’m currently learning **Blockchain, web3**
@@ -27,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinasaniee1379&show_icons=true&locale=en&layout=compact" alt="sinasaniee1379" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinasaniee1379&show_icons=true&locale=en" alt="sinasaniee1379" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinasaniee1379&" alt="sinasaniee1379" /></p>
